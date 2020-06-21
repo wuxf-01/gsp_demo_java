@@ -20,4 +20,4 @@ Java demos for the General SQL Parser library
     等待状态:
   ![Image discription](https://github.com/wuxf-01/gsp_demo_java/blob/master/等待.png)
   完成状态:
-  ![Image discription](https://github.com/wuxf-01/gsp_demo_java/blob/master/%E5%AE%8C%E6%88%90.png)
+  ![Image discription](https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3524168456,1333029941&fm=26&gp=0.jpg)
