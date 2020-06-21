@@ -17,7 +17,10 @@ Java demos for the General SQL Parser library
   - [add/modify/remove columns in select lis](src/test/java/scriptWriter/testModifySql.java)
   
   
-    等待状态:
-  ![Image discription](https://github.com/wuxf-01/gsp_demo_java/blob/master/等待.png)
-  完成状态:
+ ##   等待状态:
+  ![Image discription](https://dss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2700199794,2936076214&fm=26&gp=0.jpg)
+  
+  
+  
+ ### 完成状态:
   ![Image discription](https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3524168456,1333029941&fm=26&gp=0.jpg)
