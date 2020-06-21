@@ -15,3 +15,9 @@ Java demos for the General SQL Parser library
   - [add/modify/remove a new join](src/test/java/scriptWriter/testModifySql.java)
   - [add/modify/remove filter condition](src/test/java/scriptWriter/testModifySql.java)
   - [add/modify/remove columns in select lis](src/test/java/scriptWriter/testModifySql.java)
+  
+  
+    等待状态:
+  ![Image discription](https://github.com/wuxf-01/gsp_demo_java/blob/master/等待.png)
+  完成状态:
+  ![Image discription](https://github.com/wuxf-01/gsp_demo_java/blob/master/%E5%AE%8C%E6%88%90.png)
